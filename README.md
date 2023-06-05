@@ -9,8 +9,8 @@ Example cases for the Abstract "Simulation tool for non-Fourier MRSI reconstruct
 ## Dependencies:
 Developed and tested in MATLAB R2021b.
 Requires the following toolboxes:
-    - Signal Processing Toolbox
-    - Image Processing Toolbox
+* Signal Processing Toolbox
+* Image Processing Toolbox
 	
 ## Usage
 run the example script ismrm_examples.m
